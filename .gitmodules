@@ -1,0 +1,3 @@
+[submodule "Holographic-VAE"]
+	path = Holographic-VAE
+	url = git@github.com:nairanish1/Holographic-VAE.git
