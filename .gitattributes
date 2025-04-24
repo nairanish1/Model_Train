@@ -2,3 +2,4 @@ data/Normalized_Anthropometric_Data.csv filter=lfs diff=lfs merge=lfs -text
 data/Processed_ML/Measured/Measured_Ynm.mat filter=lfs diff=lfs merge=lfs -text
 data/Processed_ML/Measured/*.mat filter=lfs diff=lfs merge=lfs -text
 model*_init.pth filter=lfs diff=lfs merge=lfs -text
+Processed_ML/**/*.mat filter=lfs diff=lfs merge=lfs -text
