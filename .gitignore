@@ -1,0 +1,29 @@
+# data + experiments
+HRTF_Data/
+Processed_ML/
+final_training/
+AKtools-main-3/
+SOFA_API/
+EDA/
+__pycache__/
+*.egg-info/
+Holographic-VAE.zip
+
+# model artifacts
+models/
+wandb/
+*.pth
+*.log
+
+# virtualenv
+.venv/
+
+# misc
+*.zip
+*.pdf
+*.pt
+*.m
+*.ipynb
+
+# macOS cruft
+.DS_Store
